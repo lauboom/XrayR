@@ -12,7 +12,7 @@ import (
 	"github.com/Misaka-blog/XrayR/api/sspanel"
 	"github.com/Misaka-blog/XrayR/api/v2board"
 	"github.com/Misaka-blog/XrayR/app/mydispatcher"
-	_ "github.com/Misaka-blog/XrayR/main/distro/all"
+	"github.com/Misaka-blog/XrayR/main/distro/all"
 	"github.com/Misaka-blog/XrayR/service"
 	"github.com/Misaka-blog/XrayR/service/controller"
 	"github.com/imdario/mergo"
